@@ -4,7 +4,7 @@
 
 ## Week 2
 
-### Project Selection Case Study
+### Assignment: Project Selection Case Study
 
 #### Prompt
 
@@ -23,9 +23,7 @@ Here is the text:
 | Grammar                | Exhibits impeccable grammar usage, showing a high level of proficiency.    | Generally accurate grammar with occasional minor mistakes.       | Frequent grammatical errors that impede clarity and coherence.    |
 | Punctuation            | Effectively uses punctuation marks to enhance clarity and convey meaning.   | Generally employs correct punctuation but may make occasional errors. | Inconsistent or incorrect use of punctuation; hinders readability.    |
 
-#### Follow up
-
-Prompt
+#### Follow up Prompt
 
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
