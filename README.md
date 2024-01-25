@@ -10,14 +10,9 @@
 
 | Criteria               | 3                             | 2                           | 1                    |
 |------------------------|---------------------------------------|----------------------------------------|--------------------------------------|
-| Spelling               | Consistently demonstrates mastery of   | Occasional spelling errors that do not | Frequent and distracting spelling    |
-|                        | spelling; no errors present.           | significantly impact understanding.   | errors that hinder comprehension.    |
-|                        |                                       |                                        |                                      |
-| Grammar                | Exhibits impeccable grammar usage,     | Generally accurate grammar with        | Frequent grammatical errors that     |
-|                        | showing a high level of proficiency.   | occasional minor mistakes.             | impede clarity and coherence.        |
-|                        |                                       |                                        |                                      |
-| Punctuation            | Effectively uses punctuation marks    | Generally employs correct punctuation | Inconsistent or incorrect use of     |
-|                        | to enhance clarity and convey meaning. | but may make occasional errors.       | punctuation; hinders readability.   |
+| Spelling               | Consistently demonstrates mastery of spelling; no errors present.   | Occasional spelling errors that do not significantly impact understanding | Frequent and distracting spelling errors that hinder comprehension.    |
+| Grammar                | Exhibits impeccable grammar usage, showing a high level of proficiency.    | Generally accurate grammar with occasional minor mistakes.       | Frequent grammatical errors that impede clarity and coherence.    |
+| Punctuation            | Effectively uses punctuation marks to enhance clarity and convey meaning.   | Generally employs correct punctuation but may make occasional errors. | Inconsistent or incorrect use of punctuation; hinders readability.    |
 
 #### Prompt
 
